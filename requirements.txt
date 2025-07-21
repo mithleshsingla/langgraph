@@ -1,0 +1,14 @@
+langchain
+streamlit
+langchain_community
+python-dotenv
+langchain_ollama
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+faiss-cpu
+chromadb
+pypdf
+sentence-transformers
